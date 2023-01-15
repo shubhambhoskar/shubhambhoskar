@@ -60,8 +60,8 @@
 
 # 📊 GitHub Stats :
 <br></br>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambhoskar&show_icons=true&locale=en&layout=compact" alt="shubhambhoskar" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambhoskar&theme=dark$show_icons=true&locale=en&layout=compact" alt="shubhambhoskar" /></p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=shubhambhoskar&show_icons=true&locale=en" alt="shubhambhoskar" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=shubhambhoskar&theme=dark$show_icons=true&locale=en" alt="shubhambhoskar" /></p>
 
 <p><img align="centre"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhoskar&" alt="shubhambhoskar" /></p>
